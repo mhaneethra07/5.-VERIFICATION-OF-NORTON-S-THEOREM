@@ -22,23 +22,12 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+**CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM*
 
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
-
+![mort cd](https://github.com/user-attachments/assets/1460b37d-ece7-48c4-8b1d-4c33cf99c4ad)
+![nort calc](https://github.com/user-attachments/assets/49c729fa-0ae2-4717-923f-b943af00be0b)
+![nort1 cal](https://github.com/user-attachments/assets/44929fd0-1a56-40a3-ba6d-6157bd3ef589)
+![ms](https://github.com/user-attachments/assets/d8b1f4bf-840b-45b4-8082-f57d7c0650f5)
 
 **PROCEDURE:**
 
